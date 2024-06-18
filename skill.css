@@ -83,7 +83,7 @@ body{
     padding: 10px;
 }
 .SkillBar {
-    width: 90%;
+    width: 100%;
     height: 50px;
     position: relative;
     border-radius:20px;
