@@ -253,7 +253,24 @@ span.wave {
     padding-bottom: 7%;
     padding-left :0;
   }
-
+  .ftk{
+    max-width: 100%;
+    width : 30%;
+    height: 30%;
+    padding-bottom: 7%;
+  }
+  .autopsy{
+    max-width: 100%;
+    width : 30%;
+    height: 30%;
+    padding-bottom: 7%;
+  }
+  .encase{
+    max-width: 100%;
+    width : 30%;
+    height: 30%;
+    padding-bottom: 7%;
+  }
   li{
     display: inline;
   }
