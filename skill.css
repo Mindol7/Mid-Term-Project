@@ -109,25 +109,25 @@ body{
     width: 10px;
 }
 to {
-    width: 65%}
+    width: 50%}
 }@-webkit-keyframes Animate-HTML {
     from {
     width: 10px;
 }
 to {
-    width: 65%}
+    width: 50%}
 }@-moz-keyframes Animate-HTML {
     from {
     width: 10px;
 }
 to {
-    width: 65%}
+    width: 50%}
 }@-o-keyframes Animate-HTML {
     from {
     width: 10px;
 }
 to {
-    width: 65%}
+    width: 50%}
 }#Skill-CSS {
     animation: Animate-CSS 5s;
     -webkit-animation: Animate-CSS 5s;
