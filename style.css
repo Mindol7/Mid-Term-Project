@@ -5,6 +5,7 @@ body{
   }
 .body_section{
     padding : 3% 5% 1%;
+    padding-left: 10%;
 }
 
 p{
@@ -51,6 +52,7 @@ p{
 
   .section-1{
     margin-top: 6%;
+    margin-left: 10%;
     text-align: left;
     position: relative;
 }
